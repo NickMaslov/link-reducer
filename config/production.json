@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Your MERN Secret",
+    "mongoURI": "mongodb+srv://admin:secret123@cluster0-ywlrl.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
